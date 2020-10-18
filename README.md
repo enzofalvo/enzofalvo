@@ -1,7 +1,7 @@
 # Hi, I'm Enzo Falvo! 👋😁
 
 ### 💻 Java developer
-🇧🇷 Born in Curitiba, Brazil
+🇧🇷 I was born in Curitiba, Brazil
 
 ## 🗺 How to reach me:
 
