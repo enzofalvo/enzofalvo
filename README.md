@@ -1,9 +1,9 @@
-# Hi, I'm Enzo Falvo! 👋😁
+## Hi, I'm Enzo Falvo! 👋😁
 
 ### 💻 Java developer
 🇧🇷 I was born in Curitiba, Brazil
 
-## 🗺 How to reach me:
+### 🗺 How to reach me:
 
 <a href="https://www.linkedin.com/in/enzo-falvo-b681291a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/enzo-falvo-b681291a2" height="30" width="40" /></a>
 </p>
