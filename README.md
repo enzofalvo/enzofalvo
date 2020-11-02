@@ -1,11 +1,15 @@
-## Hi, I'm Enzo Falvo! 👋😁
+
+<h1 align="center">Hi, I'm Enzo Falvo! 👋😁</h1>
+
 
 ### 💻 Java developer
 🇧🇷 I was born in Curitiba, Brazil
 
-### 🗺 How to reach me:
-
-<a href="https://www.linkedin.com/in/enzo-falvo-b681291a2" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/enzo-falvo-b681291a2" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/enzo-falvo-b681291a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/enzo-falvo-b681291a2" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/enzo.falvo.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/enzo.falvo.9/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/enzowf/?hl=pt-br" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/enzowf/?hl=pt-br" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
