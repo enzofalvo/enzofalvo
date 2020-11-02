@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi, I'm Enzo Falvo! 👋😁</h1>
+## Hi, I'm Enzo Falvo! 👋😁
 
 
 ### 💻 Java developer
