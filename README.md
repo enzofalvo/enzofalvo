@@ -1,8 +1,8 @@
-## Olá, Sou o Enzo! 😄
+## Hi, I'm Enzo! 😄
 
 
 ### 💻 Java developer
-🇧🇷 Nascido em Curitiba, Paraná
+🇧🇷 I was born in Curitiba, Paraná
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
