@@ -1,8 +1,8 @@
-## Hi, I'm Enzo Falvo! 👋😁
+## Olá, Sou o Enzo! 😄
 
 
 ### 💻 Java developer
-🇧🇷 I was born in Curitiba, Brazil
+🇧🇷 Nascido em Curitiba, Paraná
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
