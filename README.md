@@ -14,7 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> </a> <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> </a> <a href="" target="_blank"> <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzofalvo&label=Profile%20views&color=0e75b6&style=flat" alt="enzofalvo" /> </p>
 
 <!--
 **enzofalvo/enzofalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
